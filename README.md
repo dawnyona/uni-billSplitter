@@ -1,2 +1,2 @@
-# PBOUAS_03
-Personal Semester 3 WPF Project for managing finance
+# Bill Splitter C#
+Personal 3rd Semester WPF Project for managing finance, and well, bill splitting 
